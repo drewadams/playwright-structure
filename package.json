@@ -1,0 +1,16 @@
+{
+  "name": "playwright-structure",
+  "version": "1.0.0",
+  "description": "This repository contains a folder structure for organizing Playwright tests.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.12"
+  }
+}

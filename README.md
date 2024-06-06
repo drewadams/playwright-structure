@@ -18,4 +18,4 @@ To use, follow these steps:
 1. Clone this repository to your local repo.
 2. Init playwright with `npm init playwright`.
 3. Make sure you update the default folder name to be `tests`, or whatever you rename the folder to.
-5. Write your Playwright tests in the `tests/suites` folder.
+4. Write your Playwright tests in the `tests/suites` folder.
